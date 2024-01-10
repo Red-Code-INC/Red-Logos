@@ -3,14 +3,14 @@
   content:url("./REDSCRIPTLOGOTEST.png");
 }
 .rc .rc-redcss{
-  width:16px
+  width:16px;
   content:url("./Red-CSS-Logo.png");
 }
 .rc .rc-redhtml{
   width:16px;
-  content:url("Red-HTML-Logo.png");
+  content:url("./Red-HTML-Logo.png");
 }
 .rc .rc-redcode{
-  width:16px:
-  content:url("REDCODEINCLOGO.png");
+  width:16px;
+  content:url("./REDCODEINCLOGO.png");
 }
