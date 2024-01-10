@@ -1,16 +1,16 @@
-.rc .rc-redscript{
+.rc-redscript{
   width:16px;
   content:url("./REDSCRIPTLOGOTEST.png");
 }
-.rc .rc-redcss{
+.rc-redcss{
   width:16px;
   content:url("./Red-CSS-Logo.png");
 }
-.rc .rc-redhtml{
+.rc-redhtml{
   width:16px;
   content:url("./Red-HTML-Logo.png");
 }
-.rc .rc-redcode{
+.rc-redcode{
   width:16px;
   content:url("./REDCODEINCLOGO.png");
 }
