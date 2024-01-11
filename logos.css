@@ -1,20 +1,16 @@
 .rc-redscript{
   width:30px;
-  vertical-align:text-bottom;
   content:url("./REDSCRIPTLOGOTEST.png");
 }
 .rc-redcss{
   width:30px;
-  vertical-align:text-bottom;
   content:url("./Red-CSS-Logo.png");
 }
 .rc-redhtml{
   width:30px;
-  vertical-align:text-bottom;
   content:url("./Red-HTML-Logo.png");
 }
 .rc-redcode{
   width:30px;
-  /*vertical-align:text-bottom*/
   content:url("./Red-Code-INC-Logo.png");
 }
