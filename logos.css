@@ -15,6 +15,6 @@
 }
 .rc-redcode{
   width:30px;
-  vertical-align:text-bottom;
+  /*vertical-align:text-bottom*/
   content:url("./Red-Code-INC-Logo.png");
 }
