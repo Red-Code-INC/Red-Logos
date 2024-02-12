@@ -1,22 +1,62 @@
 .rc-redscript{
   width:30px;
-  content:url("./REDSCRIPTLOGOTEST.png");
+  content:url("./red-script/Red-Script-Logo.png");
+}
+.rc-redscript-2{
+  width:30px;
+  content:url("./red-script/Red-Script-Logo-2.png");
+}
+.rc-redscript-mobile,.rc-redscript-3{
+  width:30px;
+  content:url("./red-script/Red-Script-Logo-MOBILEICON.png");
 }
 .rc-redcss{
   width:30px;
-  content:url("./Red-CSS-Logo.png");
+  content:url("./red-css/Red-CSS-Logo.png");
+}
+.rc-redcss-2{
+  width:30px;
+  content:url("./red-css/Red-CSS-Logo-2.png");
+}
+.rc-redcss-mobile,.rc-redcss-3{
+  width:30px;
+  content:url("./red-css/Red-CSS-Logo-MOBILEICON.png");
 }
 .rc-redhtml{
   width:30px;
-  content:url("./Red-HTML-Logo.png");
+  content:url("./red-html/Red-HTML-Logo.png");
+}
+.rc-redhtml-2{
+  width:30px;
+  content:url("./red-html/Red-HTML-Logo-2.png");
+}
+.rc-red-html-mobile, .red-html-3{
+  width:30px;
+  content:url("./red-htm/Red-HTML-Logo-MOBILEICON.png");
 }
 .rc-redcode{
   width:30px;
-  content:url("./Red-Code-INC-Logo.png");
+  content:url("./red-code/Red-Code-INC-Logo.png");
 }
-.rc-redx{
+.rc-redcode-2{
   width:30px;
-  content:url("./Red-X-Logo.png");
+  content:url("./red-code/Red-Code-INC-Logo-2.png");
+}
+.rc-redcode-mobile, .rc-redcode-3{
+  width:30px;
+  content:url("./red-code/Red-Code-INC-Logo-MOBILEICON.png");
+}
+.rc-redicons{
+  width:30px;
+  content:url("./red-icons/Red-Icons-Logo.png");
+}
+.rc-redicons-2{
+  width:30px;
+  content:url("./red-icons/Red-Icons-Logo-2.png");
+}
+.rc-redicons-mobile, .rc-redicons-3{
+  width:30px
+  content:url("./red-icons/Red-Icons-Logo-MOBILEICON.png");
 }
 .rc-redlogos{
   width:30px;
