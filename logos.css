@@ -62,3 +62,19 @@
   width:30px;
   content:url("./RLL.png");
 }
+.rc-redlogos-2{
+  width:30px;
+  content:url("./RLL-2.png");
+}
+.rc-redx{
+  width:30px;
+  content:url("./redx/Red-X-Logo.png");
+}
+.rc-redx-2{
+  width:30px;
+  content:url("./redx/Red-X-Logo.png");
+}
+.rc-redx-mobile,.rc-redx-3{
+  width:30px;
+  content:url("./redx/Red-X-MOBILEICON.png");
+}
