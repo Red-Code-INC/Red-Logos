@@ -32,7 +32,7 @@
 }
 .rc-redhtml-mobile, .rc-redhtml-3{
   width:30px;
-  content:url("./red-htm/Red-HTML-Logo-MOBILEICON.png");
+  content:url("./red-html/Red-HTML-Logo-MOBILEICON.png");
 }
 .rc-redcode{
   width:30px;
@@ -55,7 +55,7 @@
   content:url("./red-icons/Red-Icons-Logo-2.png");
 }
 .rc-redicons-mobile, .rc-redicons-3{
-  width:30px
+  width:30px;
   content:url("./red-icons/Red-Icons-Logo-MOBILEICON.png");
 }
 .rc-redlogos{
